@@ -2,6 +2,7 @@
 Simple bot that takes discord commands
 
 My bot:
+\n
 User: Text Scrambler
 ID: #5277
 
