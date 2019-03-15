@@ -1,0 +1,4 @@
+BeautifulSoup4.py
+discord.py==0.16.12
+bs4==0.0.1
+discord.py
